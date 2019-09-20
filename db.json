@@ -1,0 +1,64 @@
+{
+    "employees": [
+        {
+            "assignee": "Sable",
+            "id":1,
+            "departmentId":2,
+            "computerId":3
+        },
+        {
+            "assignee": "Matt",
+            "id":2,
+            "departmentId":3,
+            "computerId":2
+        },
+        {
+            "assignee": "Bobby",
+            "id":3,
+            "departmentId":1,
+            "computerId":4
+        },
+        {
+            "assignee": "Bobby",
+            "id":4,
+            "departmentId":4,
+            "computerId":1
+        }
+    ],
+    "departments": [
+        {
+            "name": "administration",
+            "id":1
+        },
+        {
+            "name": "human resources",
+            "id":2
+        },
+        {
+            "name": "legal",
+            "id":3
+        },
+        {
+            "name": "technology",
+            "id":4
+        }
+    ],
+    "computers": [
+        {
+            "name": "HP Laptop",
+            "id":1
+        },
+        {
+            "name": "Lenovo Laptop",
+            "id":2
+        },
+        {
+            "name": "Macbook",
+            "id":3
+        },
+        {
+            "name": "Dell Laptop",
+            "id":4
+        }
+    ]
+}
